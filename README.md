@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shazi038
+- 👋 Hi, I’m @Muhammad Shahzad
 - 👀 I’m interested in ... I want to be front end developer and need a starter job right now. 
 - 🌱 I’m currently learning ... HTML, CSS and Javascript.
 - 💞️ I’m looking to collaborate on ... Any work related to front end development like websites or apps.
